@@ -26,9 +26,6 @@
      <img src="./docs/img/01.png" width="60%"/>
    </div>
 
-\
-[]()
-
 ### 2. Github에서 Pull request 클릭
 
 - `Pull request`로 이동 후 `New pull request` 클릭
