@@ -1,11 +1,3 @@
-# swm-ct-py
-
-To prepare swm coding test
-
-\
-\
-[]()
-
 # Repository using rule
 
 - 한주 동안 푼 문제들을 `본인의깃헙아이디` 브랜치로 커밋합니다.
@@ -30,10 +22,10 @@ To prepare swm coding test
 \
 []()
 
-# PR방법
+# Pull Request
 
-1. branch 생성 및 변경
-2. commit
+1. **branch 생성 및 변경**
+2. **commit**
    <div align="center" style="display:flex;">
      <img src="./docs/img/01.png" width="60%"/>
    </div>
@@ -41,8 +33,8 @@ To prepare swm coding test
 \
 []()
 
-3. `Pull request`로 이동 후 `New pull request` 클릭
-4. Master가 base로 오도록 한 후 PR
+3. **`Pull request`로 이동 후 `New pull request` 클릭**
+4. **Master가 base로 오도록 한 후 PR**
 
 | Pull request이동 -> New pull request | Master가 base로 오도록 설정 |
 | :----------------------------------: | :-------------------------: |
@@ -51,7 +43,7 @@ To prepare swm coding test
 \
 []()
 
-5. PR시 다른 사람이 코드를 읽기 쉽게 `code flow`를 함께 적어주세요.
+5. **PR시 다른 사람이 코드를 읽기 쉽게 `code flow`를 함께 적어주세요.**
 
 |            Write            |           Preview           |
 | :-------------------------: | :-------------------------: |
